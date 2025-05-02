@@ -3,7 +3,7 @@
 A practical and lightweight Kubernetes CLI cheat sheet for DevOps engineers, sysadmins, and CKA/CKAD candidates.
 
 📄 Download the cheat sheet  
-👉 [k8s-cheat-sheet.pdf](./Kubernetes Cheat Sheet.pdf)
+👉 [Download the cheat sheet](./Kubernetes%20Cheat%20Sheet.pdf)
 
 ## 📌 Topics Covered
 - kubectl basics
